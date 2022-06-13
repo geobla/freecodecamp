@@ -1,2 +1,0 @@
-# freecodecamp
-lessons from freecodecamp
